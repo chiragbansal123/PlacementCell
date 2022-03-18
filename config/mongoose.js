@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost/Placement_admin_interface',{useNewUrlParser:true});
+mongoose.connect(`mongodb+srv://chiragb184:bansal184@cluster0.lne9m.mongodb.net/${env.db}`);
 
 const db = mongoose.connection;
 
