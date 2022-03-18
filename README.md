@@ -7,6 +7,8 @@ An Interface for the Placement cell team in an institute.
 1. NodeJS
 2. MongoDB
 
+## Deployment Link
+https://placementcellmain.herokuapp.com/
 
 ## Dependencies Used 
 1. npm install express
@@ -19,7 +21,6 @@ An Interface for the Placement cell team in an institute.
 8. npm install express-session
 9. npm install connect-mongo
 10. npm install json2csv
-11. npm install axios(for the fetching API of github jobs)
 
 
 ## Setup and Execution
@@ -74,8 +75,6 @@ An Interface for the Placement cell team in an institute.
 14. /GET   '/csv/download'
   -This route is used for exporting the results.csv file
   
-15. /GET   '/github'
-  -This route is used for fetching the data from the github jobs get api.
 ```
 
 
