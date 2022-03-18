@@ -1,6 +1,7 @@
 //Database Connection File
 
 const mongoose = require('mongoose');
+const env=require('./environment');
 
 mongoose.connect(`mongodb+srv://chiragb184:bansal184@cluster0.lne9m.mongodb.net/${env.db}`);
 
