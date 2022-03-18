@@ -1,0 +1,17 @@
+[0mGET / [32m200[0m 75.212 ms - 2408[0m
+[0mGET /css/layout.css [33m404[0m 26.472 ms - 153[0m
+[0mGET /css/layout.css [33m404[0m 7.400 ms - 153[0m
+[0mGET /users/sign-out [36m302[0m 16.193 ms - 46[0m
+[0mGET / [32m200[0m 11.038 ms - 3404[0m
+[0mGET /css/layout.css [33m404[0m 13.896 ms - 153[0m
+[0mGET / [32m200[0m 63.837 ms - 3148[0m
+[0mGET /css/layout.css [33m404[0m 17.402 ms - 153[0m
+[0mGET /css/layout.css [33m404[0m 3.615 ms - 153[0m
+[0mPOST /users/create-session [36m302[0m 28.898 ms - 46[0m
+[0mGET / [32m200[0m 12.742 ms - 2663[0m
+[0mGET /css/layout.css [33m404[0m 14.021 ms - 153[0m
+[0mGET /students/fetch [36m304[0m 103.368 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 12.879 ms - 153[0m
+[0mGET /users/sign-out [36m302[0m 11.953 ms - 46[0m
+[0mGET / [32m200[0m 9.117 ms - 3404[0m
+[0mGET /css/layout.css [33m404[0m 14.546 ms - 153[0m

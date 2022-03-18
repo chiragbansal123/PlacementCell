@@ -1,0 +1,31 @@
+{
+  "name": "placement-cell-interface",
+  "version": "1.0.0",
+  "description": "An interface for the placement-cell to schedule the interview",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirag Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "csvjson": "^5.1.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.1",
+    "json2csv": "^5.0.1",
+    "jsonstream": "^1.0.3",
+    "mongoose": "^5.9.15",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "noty": "^3.2.0-beta-deprecated",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "rotating-file-stream": "^3.0.3"
+  }
+}
